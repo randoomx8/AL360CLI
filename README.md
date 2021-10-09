@@ -14,3 +14,9 @@ To use it, simply paste the link to a 360VR video (sorry, no 180VR support, if y
 ## Is this safe?
 Probably. The code is there, you can look at it if you want.  
 It is probably possible to screw something up if you use it wrong. No guarantees of safety or satisfaction provided.
+
+## Special Thanks
+https://www.reddit.com/user/president_josh/  
+https://github.com/Cyroxchan  
+https://github.com/hakanai  
+and everyone at this github issue https://github.com/ytdl-org/youtube-dl/issues/15267#issuecomment-395625496
